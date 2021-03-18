@@ -1,0 +1,2 @@
+class Hukushi < ApplicationRecord
+end
